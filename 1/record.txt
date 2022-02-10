@@ -3,7 +3,7 @@
 3-sum.java
 4-series2.java
 5-series3.java
-6-
+6-series4.java
 7-
 8-
 9-
