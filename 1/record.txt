@@ -5,6 +5,11 @@
 5-series3.java
 6-series4.java
 7-series5.java
-8-
-9-
-10-
+8-series6.java
+9-series7.java
+10-series8.java
+11-series9.java
+12-series10.java
+13-
+14-
+15-
