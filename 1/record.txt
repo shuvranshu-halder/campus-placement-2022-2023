@@ -1,3 +1,5 @@
+question no  code
+----------   ----
 1-series1.java
 2-power.java
 3-sum.java
